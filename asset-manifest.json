@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Lambda-Player-v3/static/css/main.2c5e01d2.css",
-    "main.js": "/Lambda-Player-v3/static/js/main.3711fc9b.js",
+    "main.js": "/Lambda-Player-v3/static/js/main.d0217655.js",
     "static/js/787.0c6b79b0.chunk.js": "/Lambda-Player-v3/static/js/787.0c6b79b0.chunk.js",
+    "static/media/ギルティ†クロス - ECLIPSE.m4a": "/Lambda-Player-v3/static/media/ギルティ†クロス - ECLIPSE.434fc2c12b32a1774129.m4a",
     "static/media/Come Alive - Jackson Wang.mp3": "/Lambda-Player-v3/static/media/Come Alive - Jackson Wang.a7a5e7b2a69ad62fc0b4.mp3",
     "static/media/Red Swan - Yoshiki feat Hyde.mp3": "/Lambda-Player-v3/static/media/Red Swan - Yoshiki feat Hyde.b1d5d15861b04e137bb1.mp3",
     "static/media/After Dark.mp3": "/Lambda-Player-v3/static/media/After Dark.e16b152b756b990a655f.mp3",
@@ -10,13 +11,14 @@
     "static/media/YLloro.jpg": "/Lambda-Player-v3/static/media/YLloro.fbe02e83e71c3cf25fe3.jpg",
     "static/media/RedSwan.jpg": "/Lambda-Player-v3/static/media/RedSwan.b2cfa9b3ccf36271a838.jpg",
     "static/media/AfterDark.jpeg": "/Lambda-Player-v3/static/media/AfterDark.7739b51a94d7b1758fa9.jpeg",
+    "static/media/notificacion.mp3": "/Lambda-Player-v3/static/media/notificacion.bd242c8cc1d710d7de18.mp3",
     "index.html": "/Lambda-Player-v3/index.html",
     "main.2c5e01d2.css.map": "/Lambda-Player-v3/static/css/main.2c5e01d2.css.map",
-    "main.3711fc9b.js.map": "/Lambda-Player-v3/static/js/main.3711fc9b.js.map",
+    "main.d0217655.js.map": "/Lambda-Player-v3/static/js/main.d0217655.js.map",
     "787.0c6b79b0.chunk.js.map": "/Lambda-Player-v3/static/js/787.0c6b79b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c5e01d2.css",
-    "static/js/main.3711fc9b.js"
+    "static/js/main.d0217655.js"
   ]
 }
